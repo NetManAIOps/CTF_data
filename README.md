@@ -11,6 +11,12 @@ CTF_dataset is the dataset for the paper "CTF: Anomaly Detection in High-Dimensi
 | **number of training time points <br> in each machine** | **number of test time points <br> in each machine** | |
 |  5 * 2880 | 8 * 2880 | |
 
+### Clone the repo and unzip the folder
+
+```
+git clone https://github.com/smallcowbaby/CTF_data && cd CTF_data && cat CTF_data.tar.gz.* | tar -zxv
+```
+
 
 ### CTF_dataset
 
